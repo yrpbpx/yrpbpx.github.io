@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yrpbpx.github.io/sitemap.xml
